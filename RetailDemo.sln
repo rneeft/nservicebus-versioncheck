@@ -1,0 +1,38 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 15.0.26730.12
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientUI", "ClientUI\ClientUI.csproj", "{D4DCF868-A625-4B0B-BB20-C150553A6548}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sales.Messages", "Sales.Messages\Sales.Messages.csproj", "{F6DE8266-1F56-4241-965C-2DDBB76CEC1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sales", "Sales\Sales.csproj", "{CD42E5DF-D4A7-4933-8017-1398B2E9560F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesNieuw", "SalesNieuw\SalesNieuw.csproj", "{C8F678AC-7DD5-4920-9DB5-F58C34E7ED22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sales.MessagesNieuw", "Sales.MessagesNieuw\Sales.MessagesNieuw.csproj", "{AAA1D63A-C4F4-403C-BF2A-47826D9F9B52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Migrations", "Migrations\Migrations.csproj", "{C1D28BD5-9F4C-4209-ABE6-18E6384F0B18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4DCF868-A625-4B0B-BB20-C150553A6548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4DCF868-A625-4B0B-BB20-C150553A6548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6DE8266-1F56-4241-965C-2DDBB76CEC1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6DE8266-1F56-4241-965C-2DDBB76CEC1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD42E5DF-D4A7-4933-8017-1398B2E9560F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD42E5DF-D4A7-4933-8017-1398B2E9560F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8F678AC-7DD5-4920-9DB5-F58C34E7ED22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8F678AC-7DD5-4920-9DB5-F58C34E7ED22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAA1D63A-C4F4-403C-BF2A-47826D9F9B52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAA1D63A-C4F4-403C-BF2A-47826D9F9B52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1D28BD5-9F4C-4209-ABE6-18E6384F0B18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1D28BD5-9F4C-4209-ABE6-18E6384F0B18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
